@@ -356,3 +356,9 @@ vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiZmlyZWZv
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443/?type=ws&host=jobscareerfortoday.com&path=6b777a91&security=tls&sni=jobscareerfortoday.com#United%2BStates%20%28172%29
 trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443/?type=ws&host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com#United%2BStates%20%28173%29
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#United%2BStates%20%28174%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%E4%BC%A6%E6%95%A6Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%20%282%29
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443/?type=tcp&security=tls&sni=jobscareertoday.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9%20%284%29
+trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443/?type=tcp&security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD%20%284%29
+trojan://0fcf6d00-db3e-11ee-a900-1239d0255272@172.67.159.13:443/?type=tcp&security=tls&sni=fr1.test3.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9%20%289%29
