@@ -1,3 +1,6 @@
+hysteria://141.145.194.153:443/?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#%C2%9F%C2%94%C2%92%20HYSTERIA-UDP%20%C2%9F%C2%87%C4%9E%C2%9F%C2%87%C2%B7%20FR-141.145.194.153%3A443%20%C2%9F%C2%93%C4%A6%20PING-000.00-MS
+hysteria://152.69.227.184:443/?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#%C2%9F%C2%94%C2%92%20HYSTERIA-UDP%20%C2%9F%C2%87%C2%B0%C2%9F%C2%87%C2%B7%20KR-152.69.227.184%3A443%20%C2%9F%C2%93%C4%A6%20PING-000.00-MS
+hysteria://158.178.238.208:443/?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#%C2%9F%C2%94%C2%92%20HYSTERIA-UDP%20%C2%9F%C2%87%C2%B8%C2%9F%C2%87%C4%B4%20SG-158.178.238.208%3A443%20%C2%9F%C2%93%C4%A6%20PING-000.00-MS
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@ahmedquran3.xyz:443/?type=ws&encryption=none&path=%2Fcurrent_time&security=tls#new%20server
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@ahmedquran19.xyz:443/?type=ws&encryption=none&path=%2Fcurrent_time&security=tls#new%20server
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@wikiquran06.world:443/?type=ws&encryption=none&path=%2Fcurrent_time&security=tls#new%20server
