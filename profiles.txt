@@ -1,3 +1,4 @@
+warp://188.114.99.133:4177/?ifp=5-10#Ali
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#%E2%9C%85King+ali%E2%9C%85
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&fp=chrome&type=ws&sni=edge.020770.xyz#%E2%9C%85King+ali%E2%9C%85
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#%E2%9C%85King+ali%E2%9C%85
